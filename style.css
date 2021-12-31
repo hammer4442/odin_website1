@@ -1,0 +1,30 @@
+.header, .footer, .block1 div {
+    background-color:#1F2937;
+}
+
+.block2, .block4{
+    background-color: white;
+}
+
+.block3{
+    background-color: #E5E7EB
+}
+
+.header{
+    display: flex;
+    font-family: 'Roboto', arial;
+
+}
+
+.linkbox div{
+
+}
+
+
+.header_logo{
+    padding-left: 100px;
+    font-size: 24px;
+    color: #F9FAF8; 
+    
+
+}
